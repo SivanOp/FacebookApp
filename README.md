@@ -17,3 +17,7 @@ Singleton: Ensures that only one instance of crucial classes is created, enhanci
 Iterator: Enables efficient traversal of data structures, optimizing data manipulation and access.
 Strategy: Allows dynamic switching between algorithms or behaviors at runtime, enhancing adaptability and responsiveness.
 Command: Encapsulates commands as objects, streamlining complex workflows, and enabling efficient execution and undoing of actions.
+
+License
+This project is licensed under the MIT License.
+
